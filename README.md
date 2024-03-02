@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*jo7560v4PDjRWxSvve_nIg.gif" width="1200" height="400">
+<img align="center" src="https://media.licdn.com/dms/image/D4D12AQH9uiKilWI4KQ/article-cover_image-shrink_720_1280/0/1699429202154?e=1714608000&v=beta&t=2MviiaXjXQXlZYKnGN898STLoSgEr8ZuB2udlUTRH9I" width="800" height="400">
 <h1 align="center">Hi 👋, I'm Rohan Deore</h1>
 <h3 align="center">A Passionate Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="600" height="300" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
