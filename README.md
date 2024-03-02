@@ -1,3 +1,4 @@
+![logo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*jo7560v4PDjRWxSvve_nIg.gif)
 <h1 align="center">Hi 👋, I'm Rohan Deore</h1>
 <h3 align="center">A Passionate Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
