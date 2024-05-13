@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/D4D12AQH9uiKilWI4KQ/article-cover_image-shrink_720_1280/0/1699429202154?e=1714608000&v=beta&t=2MviiaXjXQXlZYKnGN898STLoSgEr8ZuB2udlUTRH9I" width="800" height="300">
+<img align="center" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="800" height="500">
 <h1 align="center">Hi 👋, I'm Rohan Deore</h1>
 <h3 align="center">A Passionate Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="600" height="300" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
